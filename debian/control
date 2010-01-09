@@ -85,3 +85,11 @@ Recommends: sidux-art-wallpaper-hypnos, dmz-cursor-theme
 Description: Xfce theme for sidux 2010-01 release
  Virtual package providing Xfce-splash and gdm themes
  for sidux 2010-01 (Ύπνος) release
+
+Package: sidux-art-slim-hypnos
+Architecture: all
+Depends: ${misc:Depends},
+ slim
+Description: Slim theme based on sidux 2010-01 release art
+ a Slim theme based on the 2010-01 (Ύπνος)
+ sidux release artwork.
