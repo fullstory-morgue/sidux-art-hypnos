@@ -4,8 +4,9 @@ sidux-art-hypnos (0.0.1) UNRELEASED; urgency=low
 
   [ Stefan Lippers-Hollmann ]
   * branch off Ύπνος development from Μώμος with dummy artwork.
+  * update copyrights.
 
   [ Chris Hildebrandt ]
   * sync lxde changes with noc
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 20 Nov 2009 22:04:52 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 09 Jan 2010 17:36:35 +0100
