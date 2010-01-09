@@ -1,36 +1,11 @@
-sidux-art-moros (0.0.3) UNRELEASED; urgency=low
+sidux-art-hypnos (0.0.1) UNRELEASED; urgency=low
 
-  [ Chris Hildebrandt ]
   * NOT RELEASED YET
-  * sync lxde changes with noc
-
-  [ Bernard Gray ]
-  * add symlink to wide wallpaper version for xfce users
-  * modify kdm bg handling to scale correctly for different aspect ratios
-  * modify ksplash bg handling to scale correctly for different aspect ratios
-  * modify gdm bg handling to scale correctly for different aspect ratios
-
- -- Bernard Gray <bernard.gray@gmail.com>  Wed, 06 Jan 2010 22:33:46 +1100
-
-sidux-art-moros (0.0.2) unstable; urgency=low
-
-  [ Bernard Gray ]
-  * adjust Makefile to handle normal and wide aspect images
-
-  [ David Creedy ]
-  * added normal and wide aspect ratio source svgs
-  * update metadata
-  * update splash-xfce background to suit moros themes 
-  * update splash-kde background, makefile and preview images
-  * update gdm and kdm themes to use same background as wallpaper
 
   [ Stefan Lippers-Hollmann ]
-  * small visual adaptions to the wallpaper.
+  * branch off Ύπνος development from Μώμος with dummy artwork.
 
- -- David Creedy <klaymen@sidux.com>  Sun, 20 Dec 2009 22:01:07 +1100
-
-sidux-art-moros (0.0.1) unstable; urgency=low
-
-  * branch off Μόρος development from Μώμος with dummy artwork.
+  [ Chris Hildebrandt ]
+  * sync lxde changes with noc
 
  -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 20 Nov 2009 22:04:52 +0100

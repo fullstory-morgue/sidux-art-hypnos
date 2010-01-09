@@ -5,19 +5,19 @@ BITMAPS= files background panel
 all: $(BITMAPS)
 
 files:
-	mkdir -p ./sidux-moros
-	cp slim.theme ./sidux-moros
-	cp SlimGreeterTheme.desktop ./sidux-moros
+	mkdir -p ./sidux-hypnos
+	cp slim.theme ./sidux-hypnos
+	cp SlimGreeterTheme.desktop ./sidux-hypnos
 
 background:
-	mkdir -p ./sidux-moros
+	mkdir -p ./sidux-hypnos
 	inkscape --without-gui --export-width=1280 --export-height=800 \
-		--export-png="./sidux-moros/$@.png" $@.svg
+		--export-png="./sidux-hypnos/$@.png" $@.svg
 
 panel:
-	mkdir -p ./sidux-moros
+	mkdir -p ./sidux-hypnos
 	inkscape --without-gui --export-width=380 --export-height=210 \
-		--export-png="./sidux-moros/$@.png" $@.svg
+		--export-png="./sidux-hypnos/$@.png" $@.svg
 
 clean:
-	$(RM) -r sidux-moros
+	$(RM) -r sidux-hypnos

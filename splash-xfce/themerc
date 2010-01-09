@@ -1,5 +1,5 @@
 #
-# Default sidux 2009-04 moros theme 
+# Default sidux 2010-01 hypnos theme 
 # for xfce4 based on the balou engine
 #
 # Copyright (c) 2009 David Creedy <klaymen@sidux.com>
@@ -28,8 +28,8 @@
 # Info section
 #
 [Info]
-Name=sidux 2009-04 (moros)
-Description=default xfce theme for sidux 2009-04 release
+Name=sidux 2010-01 (hypnos)
+Description=default xfce theme for sidux 2010-01 release
 
 #
 # splash screen settings
