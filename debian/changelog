@@ -1,12 +1,13 @@
-sidux-art-hypnos (0.0.1) UNRELEASED; urgency=low
-
-  * NOT RELEASED YET
+sidux-art-hypnos (0.0.1) unstable; urgency=low
 
   [ Stefan Lippers-Hollmann ]
   * branch off Ύπνος development from Μώμος with dummy artwork.
   * update copyrights.
+  * s/moros/hypnos/g
+  * s/Μόρος/Ύπνος/g
+  * s/2009-04/2010-01/g
 
   [ Chris Hildebrandt ]
   * sync lxde changes with noc
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 09 Jan 2010 17:36:35 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 09 Jan 2010 18:11:56 +0100

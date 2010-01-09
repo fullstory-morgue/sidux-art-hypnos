@@ -38,14 +38,6 @@
          offset="1"
          style="stop-color:#000000;stop-opacity:1;" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       id="filter3508">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="23.103"
-         id="feGaussianBlur3510" />
-    </filter>
     <linearGradient
        id="linearGradient3213">
       <stop
@@ -316,10 +308,10 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="1005"
-     inkscape:window-x="-4"
-     inkscape:window-y="-3"
+     inkscape:window-width="1592"
+     inkscape:window-height="1150"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata2545">
@@ -423,6 +415,17 @@
        sodipodi:ry="20.422066"
        d="m 525.24121,224.54503 a 99.602356,20.422066 0 1 1 -199.20471,0 99.602356,20.422066 0 1 1 199.20471,0 z"
        transform="matrix(1.2805755,0,0,1.9298246,-221.89247,-189.79855)" />
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="313.13834"
+       y="331.6713"
+       id="text2873"><tspan
+         sodipodi:role="line"
+         id="tspan2875"
+         x="313.13834"
+         y="331.6713"
+         style="fill:#ffffff">Ύπνος</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
