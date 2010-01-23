@@ -1,8 +1,12 @@
 sidux-art-hypnos (0.0.3) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 09 Jan 2010 19:15:19 +0100
+  [ Bernard Gray ]
+  * add custom xfce colour theme (no default theme suits current palette)
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Sat, 23 Jan 2010 15:15:26 +1100
 
 sidux-art-hypnos (0.0.2) unstable; urgency=low
 
