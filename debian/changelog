@@ -1,12 +1,18 @@
-sidux-art-hypnos (0.0.3) UNRELEASED; urgency=low
+sidux-art-hypnos (0.0.4) UNRELEASED; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 11 Feb 2010 13:59:06 +0100
+
+sidux-art-hypnos (0.0.3) unstable; urgency=low
 
   [ Bernard Gray ]
   * add custom xfce colour theme (no default theme suits current palette)
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sat, 23 Jan 2010 15:15:26 +1100
+  [ Stefan Lippers-Hollmann ]
+  * bump standareds version to 3.8.4, no changes necessary.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 11 Feb 2010 13:58:28 +0100
 
 sidux-art-hypnos (0.0.2) unstable; urgency=low
 
