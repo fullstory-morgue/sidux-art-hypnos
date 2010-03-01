@@ -7,6 +7,7 @@ Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>,
 Build-Depends: debhelper (>= 7),
  inkscape,
  perl,
+ perlmagick,
  libxml-parser-perl,
  ttf-dustin
 Standards-Version: 3.8.4

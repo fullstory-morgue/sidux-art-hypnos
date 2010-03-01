@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE greeter SYSTEM "greeter.dtd">
 <!--
-Copyright 2009-2010 David Creedy <klaymen@sidux.com>
-Copyright 2009-2010 Niall Walsh <niallwalsh@users.berlios.de>
+Copyright 2009 David Creedy <klaymen@sidux.com>
+Copyright 2009 Niall Walsh <niallwalsh@users.berlios.de>
 files: session.png, system.png and language.png -
     Copyright 2008 Urs Wolfer <uwolfer @ kde.org>
     Copyright 2008 Oswald Buddenhagen <ossi @ kde.org>
@@ -28,12 +28,12 @@ files: session.png, system.png and language.png -
 	</item>
 	<!-- sidux text -->
 	<item type="pixmap">
-		<normal file="sidux-text.png"/>
+		<normal file="sidux.png"/>
 		<pos x="20" y="20" anchor="nw"/>
 	</item>
 	<!-- welcome -->
 	<item type="label" id="welcome-label">
-		<pos x="230" y="60" anchor="nw" />
+		<pos x="275" y="85" anchor="nw" />
 		<normal font="Sans Bold 18" color="#ffffff"/>
 		<stock type="welcome-label"/>
 	</item>
@@ -47,7 +47,7 @@ files: session.png, system.png and language.png -
 				<box orientation="horizontal" spacing="20" xpadding="20">
 					<!-- scorpion logo -->
 					<item type="pixmap" id="branding">
-						<normal file="branding-icon.png"/>
+						<normal file="fred.png"/>
 					</item>
 					<!-- userlist -->
 					<item type="list" id="userlist">

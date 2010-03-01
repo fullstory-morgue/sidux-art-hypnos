@@ -3,8 +3,5 @@ Build Dependencies:
       inkscape
       ttf-dustin
       perl
+      perlmagick
       libxml-dom-perl
-
-
-
-

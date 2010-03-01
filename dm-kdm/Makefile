@@ -1,29 +1,38 @@
 #!/usr/bin/make -f
 
-BITMAPS= files background branding-icon sidux-text
+THEME= sidux-hypnos
+CONTROLDIR= 1920x1200
+PARTS= fred bar
 
-all: $(BITMAPS)
+all: prepare background $(PARTS) letters
 
-files:
-	mkdir ./sidux-hypnos
-	cp session.png ./sidux-hypnos
-	cp system.png ./sidux-hypnos
-	cp KdmGreeterTheme.desktop ./sidux-hypnos
-	cp hypnos.xml ./sidux-hypnos
-	cp oxygen.svg ./sidux-hypnos
-	cp screenshot.png ./sidux-hypnos
+prepare:
+	$(RM) -r $(THEME)
+	mkdir -p $(THEME)/$(CONTROLDIR)
+	mkdir -p $(THEME)/1920x1080
+	mkdir -p $(THEME)/1600x1200
+	mkdir -p $(THEME)/1280x1024
+	cp Theme.rc $(THEME)/
+	cp Preview.png $(THEME)/
+	cp description.txt $(THEME)/$(CONTROLDIR)
 
 background:
-	inkscape --without-gui --export-width=1920 --export-height=1200 \
-		--export-png="./sidux-hypnos/$@.png" $@.svg
+	inkscape --without-gui --export-width=1280 --export-height=1024 \
+		--export-png="$(THEME)/1280x1024/$@.png" $@.svg
+	inkscape --without-gui --export-width=1600 --export-height=1200 \
+		--export-png="$(THEME)/1600x1200/$@.png" $@.svg
+	inkscape --without-gui --export-width=1920 --export-height=1080 \
+		--export-png="$(THEME)/1920x1080/$@.png" $@-wide.svg
+	inkscape --without-gui --export-png="$(THEME)/$(CONTROLDIR)/$@.png" $@-wide.svg
 
-branding-icon:
-	inkscape --without-gui --export-width=100 --export-height=100 \
-		--export-png="./sidux-hypnos/$@.png" $@.svg
+fred:
+	inkscape --without-gui --export-png="$(THEME)/$(CONTROLDIR)/$@.png" $@.svg
 
-sidux-text:
-	inkscape --without-gui --export-width=190 --export-height=64 \
-		--export-png="./sidux-hypnos/$@.png" $@.svg
+bar:
+	inkscape --without-gui --export-png="$(THEME)/$(CONTROLDIR)/$@.png" $@.svg
+
+letters:
+	./make_the_letters
 
 clean:
-	$(RM) -r sidux-hypnos
+	$(RM) -r $(THEME)

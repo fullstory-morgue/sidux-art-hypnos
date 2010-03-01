@@ -1,5 +1,6 @@
 #!/usr/bin/make -f
 
+THEME= sidux-hypnos
 BITMAPS= logo.png
 SVG= logo.svg
 
@@ -7,9 +8,9 @@ SVG= logo.svg
 all: $(BITMAPS)
 
 logo.png:
-	mkdir -p sidux-hypnos/balou
+	mkdir -p $(THEME)/balou
 	inkscape --without-gui --export-width=640 --export-height=480 \
-		--export-png="sidux-hypnos/balou/$@" $(SVG)
-	cp themerc sidux-hypnos/balou/
+		--export-png="$(THEME)/balou/$@" $(SVG)
+	cp themerc $(THEME)/balou/
 clean:
-	$(RM) -r sidux-hypnos/
+	$(RM) -r $(THEME)/

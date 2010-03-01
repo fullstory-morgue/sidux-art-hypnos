@@ -1,8 +1,12 @@
 sidux-art-hypnos (0.0.5) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 27 Feb 2010 23:07:38 +0100
+  [ Bernard Gray ]
+  * update placeholder to theme artwork, by Rick Battle (aka detaos)
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Mon, 01 Mar 2010 19:51:58 +1100
 
 sidux-art-hypnos (0.0.4) unstable; urgency=low
 
