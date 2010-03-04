@@ -1,10 +1,6 @@
-sidux-art-hypnos (0.0.5) UNRELEASED; urgency=low
+sidux-art-hypnos (0.1.0) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
-  * update placeholder to theme artwork, by Rick Battle (aka detaos)
+  * update placeholder to theme artwork, by Rick Battle (aka detaos).
 
  -- Bernard Gray <bernard.gray@gmail.com>  Mon, 01 Mar 2010 19:51:58 +1100
 
