@@ -1,3 +1,9 @@
+sidux-art-hypnos (0.1.2) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 06 Mar 2010 01:24:25 +0100
+
 sidux-art-hypnos (0.1.1) unstable; urgency=low
 
   * fix broken dm-kdm Makefile, somehow committed Makefile for ksplash ...
