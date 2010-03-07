@@ -1,12 +1,12 @@
-sidux-art-hypnos (0.1.2) UNRELEASED; urgency=low
-
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
+sidux-art-hypnos (0.1.2) unstable; urgency=low
 
   [ Bernard Gray ]
   * fix corrupted kdm sidux-logo bg
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sun, 07 Mar 2010 16:36:22 +1100
+  [ Stefan Lippers-Hollmann ]
+  * drop unused -edu package.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Mar 2010 00:56:01 +0100
 
 sidux-art-hypnos (0.1.1) unstable; urgency=low
 

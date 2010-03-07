@@ -60,21 +60,10 @@ Description: Xfce splash theme for sidux 2010-01 release
 Package: sidux-art-wallpaper-hypnos
 Architecture: all
 Provides: sidux-art-wallpaper-theme
-Conflicts: sidux-art-wallpaper-hypnos-edu
 Depends: ${misc:Depends}
 Description: sidux wallpaper for 2010-01 release
  The official wallpaper for the 2010-01 (Ύπνος)
  sidux release.
-
-Package: sidux-art-wallpaper-hypnos-edu
-Architecture: all
-Provides: sidux-art-wallpaper-theme,
- sidux-art-wallpaper-hypnos
-Conflicts: sidux-art-wallpaper-hypnos
-Depends: ${misc:Depends}
-Description: sidux-seminarix wallpaper for 2010-01 release
- The official wallpaper for the 2010-01 (Ύπνος)
- sidux-seminarix release.
 
 Package: sidux-art-xfce-hypnos
 Architecture: all
