@@ -54,6 +54,19 @@
          style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:1;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
          inkscape:connector-curvature="0" />
     </mask>
+    <filter
+       inkscape:collect="always"
+       id="filter7227"
+       x="-0.02092964"
+       width="1.0418593"
+       y="-0.12859382"
+       height="1.2571876"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.4104004"
+         id="feGaussianBlur7229" />
+    </filter>
     <mask
        maskUnits="userSpaceOnUse"
        id="mask7275">
@@ -63,6 +76,19 @@
          id="path7277"
          inkscape:connector-curvature="0" />
     </mask>
+    <filter
+       inkscape:collect="always"
+       id="filter7327"
+       x="-0.034882732"
+       width="1.0697654"
+       y="-0.21432301"
+       height="1.428646"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="9.017334"
+         id="feGaussianBlur7329" />
+    </filter>
     <mask
        maskUnits="userSpaceOnUse"
        id="mask4119">
@@ -72,32 +98,24 @@
          id="path4121"
          inkscape:connector-curvature="0" />
     </mask>
-    <filter
-       inkscape:collect="always"
-       id="filter3712">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="2.3139136"
-         id="feGaussianBlur3714" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#0000ff"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5"
-     inkscape:cx="268.68188"
-     inkscape:cy="62.685684"
+     inkscape:zoom="1"
+     inkscape:cx="298.43497"
+     inkscape:cy="128.52519"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1390"
-     inkscape:window-height="974"
-     inkscape:window-x="223"
-     inkscape:window-y="102"
+     inkscape:window-width="1294"
+     inkscape:window-height="702"
+     inkscape:window-x="37"
+     inkscape:window-y="148"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata4143">
@@ -107,7 +125,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -117,34 +135,47 @@
      id="layer1"
      transform="translate(168.43498,-550.27019)">
     <text
-       inkscape:transform-center-y="-28.872078"
-       transform="matrix(1.1802958,0,-0.84724013,0.84724525,643.94699,0)"
-       id="shadow-skew"
-       y="753.58899"
-       x="-126.72807"
-       style="font-size:122.00331879px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;filter:url(#filter3712);enable-background:new;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       transform="translate(-1295.5767,-260.47633)"
+       mask="url(#mask7275)"
        xml:space="preserve"
-       inkscape:transform-center-x="-21.896994"><tspan
-         dx="0 0 1.6944906 -1.6944906"
-         style="font-size:84.72452545px;fill:#000000;fill-opacity:1;stroke:none"
-         y="753.58899"
-         x="-126.72807"
-         id="tspan2927"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;filter:url(#filter7327);enable-background:new;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="1146.0001"
+       y="898.64789"
+       id="sidux-shadow-3"><tspan
+         sodipodi:role="line"
+         id="tspan7337"
+         x="1146.0001"
+         y="898.64789"
+         style="font-size:100px;fill:#000000;fill-opacity:1;stroke:none"
+         dx="0 0 2 -2">sidux</tspan></text>
+    <text
+       transform="translate(-1295.5767,-260.47633)"
+       id="sidux-shadow-2"
+       y="898.64789"
+       x="1146.0001"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;filter:url(#filter7327);enable-background:new;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       xml:space="preserve"
+       mask="url(#mask7275)"><tspan
+         dx="0 0 2 -2"
+         style="font-size:100px;fill:#000000;fill-opacity:1;stroke:none"
+         y="898.64789"
+         x="1146.0001"
+         id="tspan7225"
          sodipodi:role="line">sidux</tspan></text>
     <text
+       transform="translate(-1295.5767,-260.47633)"
        xml:space="preserve"
-       style="font-size:122.00331879px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;filter:url(#filter3712);enable-background:new;font-family:Dustismo;-inkscape-font-specification:Dustismo"
-       x="-126.72807"
-       y="753.58899"
-       id="shadow"
-       transform="scale(1.1802958,0.84724525)"
-       inkscape:transform-center-y="-28.872078"><tspan
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;filter:url(#filter7227);enable-background:new;font-family:Dustismo;-inkscape-font-specification:Dustismo"
+       x="1146.0001"
+       y="898.64789"
+       id="sidux-shadow-1"
+       mask="url(#mask7271)"><tspan
          sodipodi:role="line"
-         id="tspan2926"
-         x="-126.72807"
-         y="753.58899"
-         style="font-size:84.72452545px;fill:#000000;fill-opacity:1;stroke:none"
-         dx="0 0 1.6944906 -1.6944906">sidux</tspan></text>
+         id="tspan7237"
+         x="1146.0001"
+         y="898.64789"
+         style="font-size:100px;fill:#000000;fill-opacity:1;stroke:none"
+         dx="0 0 2 -2">sidux</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Dustismo;-inkscape-font-specification:Dustismo"
