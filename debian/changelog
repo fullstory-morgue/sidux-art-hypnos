@@ -1,9 +1,5 @@
-sidux-art-hypnos (0.1.4) UNRELEASED; urgency=low
+sidux-art-hypnos (0.1.4) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * update splash-xfce to hypnos theme
 
  -- Bernard Gray <bernard.gray@gmail.com>  Tue, 27 Apr 2010 09:58:41 +1000
