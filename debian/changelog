@@ -1,8 +1,9 @@
-sidux-art-hypnos (0.1.5) UNRELEASED; urgency=low
+sidux-art-hypnos (0.1.5) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * offer sidux-art-kdm-hypnos as alternative reverse dependency of
+    sidux-art-hypnos-xfce.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 28 Apr 2010 03:33:44 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 13 Jun 2010 16:14:56 +0200
 
 sidux-art-hypnos (0.1.4) unstable; urgency=low
 

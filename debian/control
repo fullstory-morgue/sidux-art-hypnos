@@ -70,7 +70,7 @@ Architecture: all
 Provides: sidux-art-xfce-theme
 Depends: ${misc:Depends},
  sidux-art-xsplash-hypnos,
- sidux-art-gdm-hypnos
+ sidux-art-gdm-hypnos | sidux-art-kdm-hypnos
 Recommends: sidux-art-wallpaper-hypnos, dmz-cursor-theme
 Description: Xfce theme for sidux 2010-01 release
  Virtual package providing Xfce-splash and gdm themes
