@@ -1,8 +1,9 @@
 sidux-art-hypnos (0.1.6) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
+  * bump standards version to 3.9.1, no changes necessary.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 13 Jun 2010 16:46:41 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 05 Aug 2010 01:26:20 +0200
 
 sidux-art-hypnos (0.1.5) unstable; urgency=low
 
